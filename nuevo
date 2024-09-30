@@ -110,4 +110,6 @@ form button {
     cursor: pointer;
 }
 
-form button
+form button:hover {
+    background-color: #218838;
+}
